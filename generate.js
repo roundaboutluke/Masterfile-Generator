@@ -49,7 +49,14 @@ function sanitiseEvolutionForms(data) {
       if (!Array.isArray(form.evolutions)) continue
 
       for (const evolution of form.evolutions) {
-        evolution.form = coerceNumericFormId(evolution.form)
+        if ('form' in evolution) {
+          const value = coerceNumericFormId(evolution.form)
+          if (value === null) {
+            delete evolution.form
+          } else {
+            evolution.form = value
+          }
+        }
       }
     }
   }
