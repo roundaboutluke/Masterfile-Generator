@@ -613,8 +613,7 @@
         "598": {
           "evolutions": [
             {
-              "pokemon": 26,
-              "form": null
+              "pokemon": 26
             },
             {
               "pokemon": 26,
@@ -3048,8 +3047,7 @@
               "form": 250
             },
             {
-              "pokemon": 900,
-              "form": null
+              "pokemon": 900
             }
           ]
         }
@@ -3707,8 +3705,7 @@
         "1118": {
           "evolutions": [
             {
-              "pokemon": 153,
-              "form": null
+              "pokemon": 153
             }
           ]
         }
@@ -3731,8 +3728,7 @@
         "1121": {
           "evolutions": [
             {
-              "pokemon": 154,
-              "form": null
+              "pokemon": 154
             }
           ]
         }
@@ -3777,8 +3773,7 @@
         "1127": {
           "evolutions": [
             {
-              "pokemon": 156,
-              "form": null
+              "pokemon": 156
             }
           ]
         }
@@ -3801,8 +3796,7 @@
         "1130": {
           "evolutions": [
             {
-              "pokemon": 157,
-              "form": null
+              "pokemon": 157
             },
             {
               "pokemon": 157,
@@ -3852,8 +3846,7 @@
         "1136": {
           "evolutions": [
             {
-              "pokemon": 159,
-              "form": null
+              "pokemon": 159
             }
           ]
         }
@@ -3876,8 +3869,7 @@
         "1139": {
           "evolutions": [
             {
-              "pokemon": 160,
-              "form": null
+              "pokemon": 160
             }
           ]
         }
@@ -4595,8 +4587,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 980,
-              "form": null
+              "pokemon": 980
             }
           ]
         }
@@ -4961,8 +4952,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 904,
-              "form": null
+              "pokemon": 904
             }
           ]
         }
@@ -5050,8 +5040,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 903,
-              "form": null
+              "pokemon": 903
             }
           ]
         }
@@ -5100,8 +5089,7 @@
         "1268": {
           "evolutions": [
             {
-              "pokemon": 901,
-              "form": null
+              "pokemon": 901
             }
           ]
         }
@@ -5446,8 +5434,7 @@
         "941": {
           "evolutions": [
             {
-              "pokemon": 899,
-              "form": null
+              "pokemon": 899
             }
           ]
         }
@@ -6646,8 +6633,7 @@
         "1442": {
           "evolutions": [
             {
-              "pokemon": 294,
-              "form": null
+              "pokemon": 294
             }
           ]
         }
@@ -6670,8 +6656,7 @@
         "1445": {
           "evolutions": [
             {
-              "pokemon": 295,
-              "form": null
+              "pokemon": 295
             }
           ]
         }
@@ -9009,8 +8994,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -9023,8 +9007,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -9037,8 +9020,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -9569,8 +9551,7 @@
         "1775": {
           "evolutions": [
             {
-              "pokemon": 122,
-              "form": null
+              "pokemon": 122
             },
             {
               "pokemon": 122,
@@ -10755,8 +10736,7 @@
         "1910": {
           "evolutions": [
             {
-              "pokemon": 503,
-              "form": null
+              "pokemon": 503
             },
             {
               "pokemon": 503,
@@ -11647,8 +11627,7 @@
         "2048": {
           "evolutions": [
             {
-              "pokemon": 549,
-              "form": null
+              "pokemon": 549
             },
             {
               "pokemon": 549,
@@ -15164,8 +15143,7 @@
         "3065": {
           "evolutions": [
             {
-              "pokemon": 705,
-              "form": null
+              "pokemon": 705
             },
             {
               "pokemon": 705,
@@ -15381,8 +15359,7 @@
         "3069": {
           "evolutions": [
             {
-              "pokemon": 713,
-              "form": null
+              "pokemon": 713
             },
             {
               "pokemon": 713,
@@ -15632,8 +15609,7 @@
         "3077": {
           "evolutions": [
             {
-              "pokemon": 724,
-              "form": null
+              "pokemon": 724
             },
             {
               "pokemon": 724,
@@ -15931,8 +15907,7 @@
         "3316": {
           "evolutions": [
             {
-              "pokemon": 738,
-              "form": null
+              "pokemon": 738
             }
           ]
         }
@@ -20572,8 +20547,7 @@
         "2998": {
           "evolutions": [
             {
-              "pokemon": 1000,
-              "form": null
+              "pokemon": 1000
             }
           ]
         },

@@ -1279,8 +1279,7 @@
           "proto": "PIKACHU_NORMAL",
           "evolutions": [
             {
-              "pokemon": 26,
-              "form": null
+              "pokemon": 26
             },
             {
               "pokemon": 26,
@@ -7117,8 +7116,7 @@
               "form": 250
             },
             {
-              "pokemon": 900,
-              "form": null
+              "pokemon": 900
             }
           ]
         }
@@ -8735,8 +8733,7 @@
           "proto": "CHIKORITA_NORMAL",
           "evolutions": [
             {
-              "pokemon": 153,
-              "form": null
+              "pokemon": 153
             }
           ]
         }
@@ -8786,8 +8783,7 @@
           "proto": "BAYLEEF_NORMAL",
           "evolutions": [
             {
-              "pokemon": 154,
-              "form": null
+              "pokemon": 154
             }
           ]
         }
@@ -8889,8 +8885,7 @@
           "proto": "CYNDAQUIL_NORMAL",
           "evolutions": [
             {
-              "pokemon": 156,
-              "form": null
+              "pokemon": 156
             }
           ]
         }
@@ -8939,8 +8934,7 @@
           "proto": "QUILAVA_NORMAL",
           "evolutions": [
             {
-              "pokemon": 157,
-              "form": null
+              "pokemon": 157
             },
             {
               "pokemon": 157,
@@ -9060,8 +9054,7 @@
           "proto": "TOTODILE_NORMAL",
           "evolutions": [
             {
-              "pokemon": 159,
-              "form": null
+              "pokemon": 159
             }
           ]
         }
@@ -9110,8 +9103,7 @@
           "proto": "CROCONAW_NORMAL",
           "evolutions": [
             {
-              "pokemon": 160,
-              "form": null
+              "pokemon": 160
             }
           ]
         }
@@ -10794,8 +10786,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 980,
-              "form": null
+              "pokemon": 980
             }
           ]
         }
@@ -11754,8 +11745,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 904,
-              "form": null
+              "pokemon": 904
             }
           ]
         }
@@ -11968,8 +11958,7 @@
           ],
           "evolutions": [
             {
-              "pokemon": 903,
-              "form": null
+              "pokemon": 903
             }
           ]
         }
@@ -12075,8 +12064,7 @@
           "proto": "URSARING_NORMAL",
           "evolutions": [
             {
-              "pokemon": 901,
-              "form": null
+              "pokemon": 901
             }
           ]
         }
@@ -12909,8 +12897,7 @@
           "proto": "STANTLER_NORMAL",
           "evolutions": [
             {
-              "pokemon": 899,
-              "form": null
+              "pokemon": 899
             }
           ]
         }
@@ -15970,8 +15957,7 @@
           "proto": "WHISMUR_NORMAL",
           "evolutions": [
             {
-              "pokemon": 294,
-              "form": null
+              "pokemon": 294
             }
           ]
         }
@@ -16020,8 +16006,7 @@
           "proto": "LOUDRED_NORMAL",
           "evolutions": [
             {
-              "pokemon": 295,
-              "form": null
+              "pokemon": 295
             }
           ]
         }
@@ -21737,8 +21722,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -21753,8 +21737,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -21769,8 +21752,7 @@
             },
             {
               "pokemon": 414,
-              "gender_requirement": 1,
-              "form": null
+              "gender_requirement": 1
             }
           ]
         },
@@ -23093,8 +23075,7 @@
           "proto": "MIME_JR_NORMAL",
           "evolutions": [
             {
-              "pokemon": 122,
-              "form": null
+              "pokemon": 122
             },
             {
               "pokemon": 122,
@@ -26103,8 +26084,7 @@
           "proto": "DEWOTT_NORMAL",
           "evolutions": [
             {
-              "pokemon": 503,
-              "form": null
+              "pokemon": 503
             },
             {
               "pokemon": 503,
@@ -28251,8 +28231,7 @@
           "proto": "PETILIL_NORMAL",
           "evolutions": [
             {
-              "pokemon": 549,
-              "form": null
+              "pokemon": 549
             },
             {
               "pokemon": 549,
@@ -36456,8 +36435,7 @@
           "proto": "GOOMY_NORMAL",
           "evolutions": [
             {
-              "pokemon": 705,
-              "form": null
+              "pokemon": 705
             },
             {
               "pokemon": 705,
@@ -36916,8 +36894,7 @@
           "proto": "BERGMITE_NORMAL",
           "evolutions": [
             {
-              "pokemon": 713,
-              "form": null
+              "pokemon": 713
             },
             {
               "pokemon": 713,
@@ -37516,8 +37493,7 @@
           "proto": "DARTRIX_NORMAL",
           "evolutions": [
             {
-              "pokemon": 724,
-              "form": null
+              "pokemon": 724
             },
             {
               "pokemon": 724,
@@ -38213,8 +38189,7 @@
           "is_costume": true,
           "evolutions": [
             {
-              "pokemon": 738,
-              "form": null
+              "pokemon": 738
             }
           ]
         }
@@ -50172,8 +50147,7 @@
           "proto": "GIMMIGHOUL_NORMAL",
           "evolutions": [
             {
-              "pokemon": 1000,
-              "form": null
+              "pokemon": 1000
             }
           ]
         },
