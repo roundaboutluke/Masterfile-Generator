@@ -28,7 +28,8 @@
             {
               "evoId": 2,
               "formId": 166,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -93,7 +94,8 @@
             {
               "evoId": 3,
               "formId": 169,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -215,7 +217,8 @@
             {
               "evoId": 5,
               "formId": 175,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -281,7 +284,8 @@
             {
               "evoId": 6,
               "formId": 178,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -420,7 +424,8 @@
             {
               "evoId": 8,
               "formId": 184,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -484,7 +489,8 @@
             {
               "evoId": 9,
               "formId": 187,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -604,7 +610,8 @@
             {
               "evoId": 11,
               "formId": 956,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -660,7 +667,8 @@
             {
               "evoId": 12,
               "formId": 959,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -768,7 +776,8 @@
             {
               "evoId": 14,
               "formId": 619,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -826,7 +835,8 @@
             {
               "evoId": 15,
               "formId": 622,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -952,7 +962,8 @@
             {
               "evoId": 17,
               "formId": 965,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -1011,7 +1022,8 @@
             {
               "evoId": 18,
               "formId": 968,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -1135,7 +1147,8 @@
             {
               "evoId": 20,
               "formId": 47,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -1155,7 +1168,8 @@
             {
               "evoId": 20,
               "formId": 48,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -1280,7 +1294,8 @@
             {
               "evoId": 22,
               "formId": 974,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -1386,7 +1401,8 @@
             {
               "evoId": 24,
               "formId": 700,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -1497,12 +1513,14 @@
           "evolutions": [
             {
               "evoId": 26,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 26,
               "formId": 50,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -2067,7 +2085,8 @@
             {
               "evoId": 28,
               "formId": 53,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -2097,7 +2116,8 @@
             {
               "evoId": 28,
               "formId": 54,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -2234,7 +2254,8 @@
             {
               "evoId": 30,
               "formId": 779,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -2293,7 +2314,8 @@
             {
               "evoId": 31,
               "formId": 782,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -2404,7 +2426,8 @@
             {
               "evoId": 33,
               "formId": 785,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -2463,7 +2486,8 @@
             {
               "evoId": 34,
               "formId": 788,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -2577,7 +2601,8 @@
             {
               "evoId": 36,
               "formId": 984,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -2684,7 +2709,8 @@
             {
               "evoId": 38,
               "formId": 57,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -2708,7 +2734,8 @@
             {
               "evoId": 38,
               "formId": 58,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -2852,7 +2879,8 @@
             {
               "evoId": 40,
               "formId": 990,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -2960,7 +2988,8 @@
             {
               "evoId": 42,
               "formId": 160,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -3021,7 +3050,8 @@
             {
               "evoId": 169,
               "formId": 202,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -3082,7 +3112,8 @@
             {
               "evoId": 44,
               "formId": 268,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -3141,7 +3172,8 @@
             {
               "evoId": 45,
               "formId": 271,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 182,
@@ -3152,7 +3184,8 @@
                   "itemId": 1101,
                   "itemName": "Sun Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -3272,7 +3305,8 @@
             {
               "evoId": 47,
               "formId": 996,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -3376,7 +3410,8 @@
             {
               "evoId": 49,
               "formId": 262,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -3486,7 +3521,8 @@
             {
               "evoId": 51,
               "formId": 61,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -3511,7 +3547,8 @@
             {
               "evoId": 51,
               "formId": 62,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -3646,7 +3683,8 @@
             {
               "evoId": 53,
               "formId": 65,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -3672,7 +3710,8 @@
             {
               "evoId": 53,
               "formId": 66,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -3703,7 +3742,8 @@
             {
               "evoId": 863,
               "formId": 2504,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -3831,7 +3871,8 @@
             {
               "evoId": 55,
               "formId": 289,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -3943,7 +3984,8 @@
             {
               "evoId": 57,
               "formId": 1002,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -4012,7 +4054,8 @@
                   "questType": 71,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -4077,7 +4120,8 @@
             {
               "evoId": 59,
               "formId": 283,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -4102,7 +4146,8 @@
             {
               "evoId": 59,
               "formId": 2793,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -4240,7 +4285,8 @@
             {
               "evoId": 61,
               "formId": 238,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -4300,7 +4346,8 @@
             {
               "evoId": 62,
               "formId": 241,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 186,
@@ -4311,7 +4358,8 @@
                   "itemId": 1102,
                   "itemName": "Kings Rock"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -4437,7 +4485,8 @@
             {
               "evoId": 64,
               "formId": 307,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -4497,7 +4546,8 @@
               "evoId": 65,
               "formId": 310,
               "candyCost": 100,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -4624,7 +4674,8 @@
             {
               "evoId": 67,
               "formId": 812,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -4685,7 +4736,8 @@
               "evoId": 68,
               "formId": 815,
               "candyCost": 100,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -4801,7 +4853,8 @@
             {
               "evoId": 70,
               "formId": 667,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -4862,7 +4915,8 @@
             {
               "evoId": 71,
               "formId": 670,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -4974,7 +5028,8 @@
             {
               "evoId": 73,
               "formId": 1008,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -5083,7 +5138,8 @@
             {
               "evoId": 75,
               "formId": 69,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -5107,7 +5163,8 @@
             {
               "evoId": 75,
               "formId": 70,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -5170,7 +5227,8 @@
               "evoId": 76,
               "formId": 71,
               "candyCost": 100,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         },
@@ -5196,7 +5254,8 @@
               "evoId": 76,
               "formId": 72,
               "candyCost": 100,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -5328,7 +5387,8 @@
             {
               "evoId": 78,
               "formId": 1014,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -5352,7 +5412,8 @@
             {
               "evoId": 78,
               "formId": 2337,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -5485,7 +5546,8 @@
             {
               "evoId": 80,
               "formId": 1020,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 199,
@@ -5496,7 +5558,8 @@
                   "itemId": 1102,
                   "itemName": "Kings Rock"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -5525,7 +5588,8 @@
                   "questType": 4,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 199,
@@ -5536,7 +5600,8 @@
                   "questType": 4,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -5548,7 +5613,8 @@
             {
               "evoId": 80,
               "formId": 2674,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 199,
@@ -5559,7 +5625,8 @@
                   "itemId": 1102,
                   "itemName": "Kings Rock"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -5724,7 +5791,8 @@
             {
               "evoId": 82,
               "formId": 658,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -5787,7 +5855,8 @@
             {
               "evoId": 462,
               "formId": 661,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -5877,7 +5946,8 @@
                   "questType": 16,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -5931,7 +6001,8 @@
             {
               "evoId": 85,
               "formId": 1029,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6039,7 +6110,8 @@
             {
               "evoId": 87,
               "formId": 1035,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6146,7 +6218,8 @@
             {
               "evoId": 89,
               "formId": 75,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -6170,7 +6243,8 @@
             {
               "evoId": 89,
               "formId": 76,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6299,7 +6373,8 @@
             {
               "evoId": 91,
               "formId": 879,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6415,7 +6490,8 @@
             {
               "evoId": 93,
               "formId": 1041,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -6480,7 +6556,8 @@
               "evoId": 94,
               "formId": 1044,
               "candyCost": 100,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -6625,7 +6702,8 @@
                   "itemId": 1103,
                   "itemName": "Metal Coat"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -6694,7 +6772,8 @@
             {
               "evoId": 97,
               "formId": 217,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6805,7 +6884,8 @@
             {
               "evoId": 99,
               "formId": 873,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -6915,7 +6995,8 @@
             {
               "evoId": 101,
               "formId": 1050,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -6940,7 +7021,8 @@
             {
               "evoId": 101,
               "formId": 2735,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -7070,12 +7152,14 @@
             {
               "evoId": 103,
               "formId": 77,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 103,
               "formId": 78,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -7214,12 +7298,14 @@
             {
               "evoId": 105,
               "formId": 79,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 105,
               "formId": 80,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -7459,7 +7545,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -7520,12 +7607,14 @@
             {
               "evoId": 110,
               "formId": 706,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 110,
               "formId": 944,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -7656,7 +7745,8 @@
             {
               "evoId": 112,
               "formId": 849,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -7724,7 +7814,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -7790,7 +7881,8 @@
             {
               "evoId": 242,
               "formId": 1328,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -7854,7 +7946,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -7977,7 +8070,8 @@
             {
               "evoId": 117,
               "formId": 1065,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -8043,7 +8137,8 @@
                   "itemId": 1104,
                   "itemName": "Dragon Scale"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -8109,7 +8204,8 @@
             {
               "evoId": 119,
               "formId": 1071,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -8213,7 +8309,8 @@
             {
               "evoId": 121,
               "formId": 1077,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -8351,7 +8448,8 @@
             {
               "evoId": 866,
               "formId": 2513,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -8414,11 +8512,13 @@
                   "itemId": 1103,
                   "itemName": "Metal Coat"
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 900,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -8541,7 +8641,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -8612,7 +8713,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -8850,7 +8952,8 @@
             {
               "evoId": 130,
               "formId": 256,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -9077,17 +9180,20 @@
             {
               "evoId": 134,
               "formId": 1095,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 135,
               "formId": 1098,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 136,
               "formId": 1101,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 196,
@@ -9100,7 +9206,8 @@
                   "questType": 50,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 197,
@@ -9113,17 +9220,20 @@
                   "questType": 50,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 470,
               "formId": 1832,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 471,
               "formId": 1835,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 700,
@@ -9134,7 +9244,8 @@
                   "questType": 34,
                   "target": 70
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -9412,7 +9523,8 @@
                   "itemId": 1105,
                   "itemName": "Up Grade"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -9480,7 +9592,8 @@
             {
               "evoId": 139,
               "formId": 743,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -9590,7 +9703,8 @@
             {
               "evoId": 141,
               "formId": 1107,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -10031,7 +10145,8 @@
             {
               "evoId": 148,
               "formId": 193,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -10090,7 +10205,8 @@
             {
               "evoId": 149,
               "formId": 196,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -10353,7 +10469,8 @@
           "evolutions": [
             {
               "evoId": 153,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -10410,7 +10527,8 @@
           "evolutions": [
             {
               "evoId": 154,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -10517,7 +10635,8 @@
           "evolutions": [
             {
               "evoId": 156,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -10573,12 +10692,14 @@
           "evolutions": [
             {
               "evoId": 157,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 157,
               "formId": 2786,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -10716,7 +10837,8 @@
           "evolutions": [
             {
               "evoId": 159,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -10772,7 +10894,8 @@
           "evolutions": [
             {
               "evoId": 160,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -10883,7 +11006,8 @@
             {
               "evoId": 162,
               "formId": 1148,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -10985,7 +11109,8 @@
             {
               "evoId": 164,
               "formId": 1154,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -11087,7 +11212,8 @@
             {
               "evoId": 166,
               "formId": 1160,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11194,7 +11320,8 @@
             {
               "evoId": 168,
               "formId": 1166,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -11346,7 +11473,8 @@
             {
               "evoId": 171,
               "formId": 1172,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -11447,7 +11575,8 @@
             {
               "evoId": 25,
               "formId": 598,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11506,7 +11635,8 @@
             {
               "evoId": 35,
               "formId": 981,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11565,7 +11695,8 @@
             {
               "evoId": 39,
               "formId": 987,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11622,7 +11753,8 @@
             {
               "evoId": 176,
               "formId": 1187,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11690,7 +11822,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -11754,7 +11887,8 @@
             {
               "evoId": 178,
               "formId": 1193,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -11861,7 +11995,8 @@
             {
               "evoId": 180,
               "formId": 649,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -11921,7 +12056,8 @@
             {
               "evoId": 181,
               "formId": 652,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -12098,7 +12234,8 @@
             {
               "evoId": 184,
               "formId": 1199,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -12302,7 +12439,8 @@
             {
               "evoId": 188,
               "formId": 1208,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -12361,7 +12499,8 @@
             {
               "evoId": 189,
               "formId": 1211,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -12478,7 +12617,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -12548,7 +12688,8 @@
                   "itemId": 1101,
                   "itemName": "Sun Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -12661,7 +12802,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -12723,7 +12865,8 @@
             {
               "evoId": 195,
               "formId": 1229,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -12746,7 +12889,8 @@
           "evolutions": [
             {
               "evoId": 980,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -12967,7 +13111,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -13119,7 +13264,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -13420,7 +13566,8 @@
             {
               "evoId": 205,
               "formId": 1247,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -13529,12 +13676,14 @@
             {
               "evoId": 982,
               "formId": 2994,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 982,
               "formId": 2995,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -13602,7 +13751,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -13727,7 +13877,8 @@
             {
               "evoId": 210,
               "formId": 1256,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -13865,7 +14016,8 @@
                   "questType": 8,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -14084,7 +14236,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -14114,7 +14267,8 @@
                   "questType": 50,
                   "target": 7
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -14180,7 +14334,8 @@
             {
               "evoId": 217,
               "formId": 1268,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -14240,7 +14395,8 @@
           "evolutions": [
             {
               "evoId": 901,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -14299,7 +14455,8 @@
             {
               "evoId": 219,
               "formId": 1274,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -14402,7 +14559,8 @@
             {
               "evoId": 221,
               "formId": 1280,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -14469,7 +14627,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -14557,7 +14716,8 @@
             {
               "evoId": 864,
               "formId": 2507,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -14606,7 +14766,8 @@
             {
               "evoId": 224,
               "formId": 1289,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -14851,7 +15012,8 @@
             {
               "evoId": 229,
               "formId": 232,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -15021,7 +15183,8 @@
             {
               "evoId": 232,
               "formId": 1304,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -15136,7 +15299,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -15503,17 +15667,20 @@
             {
               "evoId": 106,
               "formId": 713,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 107,
               "formId": 277,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 237,
               "formId": 1313,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -15624,7 +15791,8 @@
             {
               "evoId": 124,
               "formId": 1083,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -15681,7 +15849,8 @@
             {
               "evoId": 125,
               "formId": 640,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -15738,7 +15907,8 @@
             {
               "evoId": 126,
               "formId": 634,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -16037,7 +16207,8 @@
             {
               "evoId": 247,
               "formId": 316,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -16097,7 +16268,8 @@
             {
               "evoId": 248,
               "formId": 319,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -16369,7 +16541,8 @@
             {
               "evoId": 253,
               "formId": 1352,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -16427,7 +16600,8 @@
             {
               "evoId": 254,
               "formId": 1355,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -16552,7 +16726,8 @@
             {
               "evoId": 256,
               "formId": 1361,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -16612,7 +16787,8 @@
             {
               "evoId": 257,
               "formId": 1364,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -16737,7 +16913,8 @@
             {
               "evoId": 259,
               "formId": 208,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -16797,7 +16974,8 @@
             {
               "evoId": 260,
               "formId": 211,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -16920,7 +17098,8 @@
             {
               "evoId": 262,
               "formId": 1370,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -17028,7 +17207,8 @@
             {
               "evoId": 264,
               "formId": 947,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -17052,7 +17232,8 @@
             {
               "evoId": 264,
               "formId": 948,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -17129,7 +17310,8 @@
             {
               "evoId": 862,
               "formId": 2501,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -17180,12 +17362,14 @@
             {
               "evoId": 266,
               "formId": 1379,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             },
             {
               "evoId": 268,
               "formId": 1385,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -17242,7 +17426,8 @@
             {
               "evoId": 267,
               "formId": 1382,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -17342,7 +17527,8 @@
             {
               "evoId": 269,
               "formId": 1388,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -17445,7 +17631,8 @@
             {
               "evoId": 271,
               "formId": 1394,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -17502,7 +17689,8 @@
             {
               "evoId": 272,
               "formId": 1397,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -17610,7 +17798,8 @@
             {
               "evoId": 274,
               "formId": 628,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -17669,7 +17858,8 @@
             {
               "evoId": 275,
               "formId": 631,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -17779,7 +17969,8 @@
             {
               "evoId": 277,
               "formId": 1403,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -17884,7 +18075,8 @@
             {
               "evoId": 279,
               "formId": 1409,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -17986,7 +18178,8 @@
             {
               "evoId": 281,
               "formId": 295,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -18048,7 +18241,8 @@
             {
               "evoId": 282,
               "formId": 298,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 475,
@@ -18060,7 +18254,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -18195,7 +18390,8 @@
             {
               "evoId": 284,
               "formId": 1415,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -18297,7 +18493,8 @@
             {
               "evoId": 286,
               "formId": 1421,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -18400,7 +18597,8 @@
             {
               "evoId": 288,
               "formId": 1427,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -18458,7 +18656,8 @@
             {
               "evoId": 289,
               "formId": 1430,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -18565,7 +18764,8 @@
             {
               "evoId": 291,
               "formId": 1436,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -18711,7 +18911,8 @@
           "evolutions": [
             {
               "evoId": 294,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -18767,7 +18968,8 @@
           "evolutions": [
             {
               "evoId": 295,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -18874,7 +19076,8 @@
             {
               "evoId": 297,
               "formId": 1454,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -18982,7 +19185,8 @@
             {
               "evoId": 183,
               "formId": 1196,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -19037,7 +19241,8 @@
             {
               "evoId": 476,
               "formId": 1841,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -19094,7 +19299,8 @@
             {
               "evoId": 301,
               "formId": 1466,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -19324,7 +19530,8 @@
             {
               "evoId": 305,
               "formId": 1472,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -19386,7 +19593,8 @@
             {
               "evoId": 306,
               "formId": 1475,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -19513,7 +19721,8 @@
             {
               "evoId": 308,
               "formId": 1481,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -19626,7 +19835,8 @@
             {
               "evoId": 310,
               "formId": 1487,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -19923,7 +20133,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -19984,7 +20195,8 @@
             {
               "evoId": 317,
               "formId": 1508,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -20087,7 +20299,8 @@
             {
               "evoId": 319,
               "formId": 737,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -20206,7 +20419,8 @@
             {
               "evoId": 321,
               "formId": 1514,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -20313,7 +20527,8 @@
             {
               "evoId": 323,
               "formId": 1520,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -20474,7 +20689,8 @@
             {
               "evoId": 326,
               "formId": 1529,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -20699,7 +20915,8 @@
             {
               "evoId": 329,
               "formId": 749,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -20760,7 +20977,8 @@
             {
               "evoId": 330,
               "formId": 752,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -20876,7 +21094,8 @@
             {
               "evoId": 332,
               "formId": 613,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -20985,7 +21204,8 @@
             {
               "evoId": 334,
               "formId": 1535,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -21284,7 +21504,8 @@
             {
               "evoId": 340,
               "formId": 1553,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -21391,7 +21612,8 @@
             {
               "evoId": 342,
               "formId": 1559,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -21499,7 +21721,8 @@
             {
               "evoId": 344,
               "formId": 1565,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -21611,7 +21834,8 @@
             {
               "evoId": 346,
               "formId": 1571,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -21720,7 +21944,8 @@
             {
               "evoId": 348,
               "formId": 1577,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -21830,7 +22055,8 @@
                   "questType": 50,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -22081,7 +22307,8 @@
             {
               "evoId": 354,
               "formId": 911,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -22197,7 +22424,8 @@
             {
               "evoId": 356,
               "formId": 917,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -22262,7 +22490,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -22471,7 +22700,8 @@
             {
               "evoId": 202,
               "formId": 602,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -22526,7 +22756,8 @@
             {
               "evoId": 362,
               "formId": 929,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 478,
@@ -22538,7 +22769,8 @@
                   "itemId": 1106,
                   "itemName": "Gen4 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -22667,7 +22899,8 @@
             {
               "evoId": 364,
               "formId": 1601,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -22727,7 +22960,8 @@
             {
               "evoId": 365,
               "formId": 1604,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -22837,12 +23071,14 @@
             {
               "evoId": 367,
               "formId": 1610,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 368,
               "formId": 1613,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -23074,7 +23310,8 @@
             {
               "evoId": 372,
               "formId": 758,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -23134,7 +23371,8 @@
             {
               "evoId": 373,
               "formId": 761,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -23257,7 +23495,8 @@
             {
               "evoId": 375,
               "formId": 767,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -23318,7 +23557,8 @@
             {
               "evoId": 376,
               "formId": 770,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -24015,7 +24255,8 @@
             {
               "evoId": 388,
               "formId": 691,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -24073,7 +24314,8 @@
             {
               "evoId": 389,
               "formId": 694,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -24184,7 +24426,8 @@
             {
               "evoId": 391,
               "formId": 821,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -24243,7 +24486,8 @@
             {
               "evoId": 392,
               "formId": 824,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -24352,7 +24596,8 @@
             {
               "evoId": 394,
               "formId": 1652,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -24409,7 +24654,8 @@
             {
               "evoId": 395,
               "formId": 1655,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -24522,7 +24768,8 @@
             {
               "evoId": 397,
               "formId": 1661,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -24583,7 +24830,8 @@
             {
               "evoId": 398,
               "formId": 1664,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -24699,7 +24947,8 @@
             {
               "evoId": 400,
               "formId": 1670,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -24803,7 +25052,8 @@
             {
               "evoId": 402,
               "formId": 1676,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -24902,7 +25152,8 @@
             {
               "evoId": 404,
               "formId": 1682,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -24959,7 +25210,8 @@
             {
               "evoId": 405,
               "formId": 1685,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -25067,7 +25319,8 @@
             {
               "evoId": 315,
               "formId": 1502,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -25175,7 +25428,8 @@
             {
               "evoId": 409,
               "formId": 1697,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -25279,7 +25533,8 @@
             {
               "evoId": 411,
               "formId": 1703,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -25382,12 +25637,14 @@
               "evoId": 413,
               "formId": 87,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 414,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -25399,12 +25656,14 @@
               "evoId": 413,
               "formId": 88,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 414,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -25416,12 +25675,14 @@
               "evoId": 413,
               "formId": 89,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 414,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -25627,7 +25888,8 @@
               "evoId": 416,
               "formId": 1718,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -25776,7 +26038,8 @@
             {
               "evoId": 419,
               "formId": 1727,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -25876,12 +26139,14 @@
             {
               "evoId": 421,
               "formId": 94,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 421,
               "formId": 95,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26000,7 +26265,8 @@
             {
               "evoId": 423,
               "formId": 98,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -26011,7 +26277,8 @@
             {
               "evoId": 423,
               "formId": 99,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -26172,7 +26439,8 @@
             {
               "evoId": 426,
               "formId": 1748,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26276,7 +26544,8 @@
             {
               "evoId": 428,
               "formId": 1754,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26489,7 +26758,8 @@
             {
               "evoId": 432,
               "formId": 1760,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26592,7 +26862,8 @@
             {
               "evoId": 358,
               "formId": 1592,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26649,7 +26920,8 @@
             {
               "evoId": 435,
               "formId": 794,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26757,7 +27029,8 @@
             {
               "evoId": 437,
               "formId": 1769,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -26868,7 +27141,8 @@
                   "questType": 50,
                   "target": 15
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -26935,12 +27209,14 @@
                   "questType": 50,
                   "target": 15
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 122,
               "formId": 2339,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27010,7 +27286,8 @@
                   "questType": 50,
                   "target": 15
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -27160,7 +27437,8 @@
             {
               "evoId": 444,
               "formId": 864,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -27220,7 +27498,8 @@
             {
               "evoId": 445,
               "formId": 867,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -27343,7 +27622,8 @@
             {
               "evoId": 143,
               "formId": 199,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27400,7 +27680,8 @@
             {
               "evoId": 448,
               "formId": 1793,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27520,7 +27801,8 @@
             {
               "evoId": 450,
               "formId": 891,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27631,7 +27913,8 @@
             {
               "evoId": 452,
               "formId": 1799,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27741,7 +28024,8 @@
             {
               "evoId": 454,
               "formId": 1805,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27891,7 +28175,8 @@
             {
               "evoId": 457,
               "formId": 1814,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -27992,7 +28277,8 @@
             {
               "evoId": 226,
               "formId": 1292,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -28049,7 +28335,8 @@
             {
               "evoId": 460,
               "formId": 935,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -30008,7 +30295,8 @@
             {
               "evoId": 496,
               "formId": 1892,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -30065,7 +30353,8 @@
             {
               "evoId": 497,
               "formId": 1895,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -30172,7 +30461,8 @@
             {
               "evoId": 499,
               "formId": 1901,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -30230,7 +30520,8 @@
             {
               "evoId": 500,
               "formId": 1904,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -30339,7 +30630,8 @@
             {
               "evoId": 502,
               "formId": 1910,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -30395,12 +30687,14 @@
           "evolutions": [
             {
               "evoId": 503,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 503,
               "formId": 2787,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -30540,7 +30834,8 @@
             {
               "evoId": 505,
               "formId": 1919,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -30644,7 +30939,8 @@
             {
               "evoId": 507,
               "formId": 1925,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -30700,7 +30996,8 @@
             {
               "evoId": 508,
               "formId": 1928,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -30803,7 +31100,8 @@
             {
               "evoId": 510,
               "formId": 1934,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -30913,7 +31211,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -31024,7 +31323,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -31135,7 +31435,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -31246,7 +31547,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -31352,7 +31654,8 @@
             {
               "evoId": 520,
               "formId": 1964,
-              "candyCost": 12
+              "candyCost": 12,
+              "form": null
             }
           ]
         }
@@ -31410,7 +31713,8 @@
             {
               "evoId": 521,
               "formId": 1967,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -31516,7 +31820,8 @@
             {
               "evoId": 523,
               "formId": 1973,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -31619,7 +31924,8 @@
             {
               "evoId": 525,
               "formId": 1979,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -31677,7 +31983,8 @@
               "evoId": 526,
               "formId": 1982,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -31793,7 +32100,8 @@
                   "questType": 50,
                   "target": 1
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -31901,7 +32209,8 @@
             {
               "evoId": 530,
               "formId": 1994,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -32068,7 +32377,8 @@
             {
               "evoId": 533,
               "formId": 2003,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -32126,7 +32436,8 @@
               "evoId": 534,
               "formId": 2006,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -32234,7 +32545,8 @@
             {
               "evoId": 536,
               "formId": 2012,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -32290,7 +32602,8 @@
             {
               "evoId": 537,
               "formId": 2015,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -32483,7 +32796,8 @@
             {
               "evoId": 541,
               "formId": 2027,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -32539,7 +32853,8 @@
             {
               "evoId": 542,
               "formId": 2030,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -32645,7 +32960,8 @@
             {
               "evoId": 544,
               "formId": 2036,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -32703,7 +33019,8 @@
             {
               "evoId": 545,
               "formId": 2039,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -32818,7 +33135,8 @@
                   "itemId": 1101,
                   "itemName": "Sun Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -32930,12 +33248,14 @@
                   "itemId": 1101,
                   "itemName": "Sun Stone"
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 549,
               "formId": 2789,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -33078,13 +33398,15 @@
               "evoId": 902,
               "formId": 2807,
               "candyCost": 50,
-              "genderRequirement": 1
+              "genderRequirement": 1,
+              "form": null
             },
             {
               "evoId": 902,
               "formId": 2808,
               "candyCost": 50,
-              "genderRequirement": 2
+              "genderRequirement": 2,
+              "form": null
             }
           ]
         }
@@ -33134,7 +33456,8 @@
             {
               "evoId": 552,
               "formId": 2057,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -33190,7 +33513,8 @@
             {
               "evoId": 553,
               "formId": 2060,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -33293,7 +33617,8 @@
             {
               "evoId": 555,
               "formId": 138,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -33315,7 +33640,8 @@
             {
               "evoId": 555,
               "formId": 2342,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -33517,7 +33843,8 @@
             {
               "evoId": 558,
               "formId": 2072,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -33625,7 +33952,8 @@
             {
               "evoId": 560,
               "formId": 2078,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -33771,7 +34099,8 @@
             {
               "evoId": 563,
               "formId": 2087,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -33799,7 +34128,8 @@
                   "questType": 8,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -33903,7 +34233,8 @@
             {
               "evoId": 565,
               "formId": 2093,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -34009,7 +34340,8 @@
             {
               "evoId": 567,
               "formId": 2099,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -34112,7 +34444,8 @@
             {
               "evoId": 569,
               "formId": 2105,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -34218,7 +34551,8 @@
             {
               "evoId": 571,
               "formId": 2111,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -34248,7 +34582,8 @@
             {
               "evoId": 571,
               "formId": 2797,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -34374,7 +34709,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -34479,7 +34815,8 @@
             {
               "evoId": 575,
               "formId": 2123,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -34536,7 +34873,8 @@
             {
               "evoId": 576,
               "formId": 2126,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -34641,7 +34979,8 @@
             {
               "evoId": 578,
               "formId": 2132,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -34698,7 +35037,8 @@
             {
               "evoId": 579,
               "formId": 2135,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -34807,7 +35147,8 @@
             {
               "evoId": 581,
               "formId": 2141,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -34912,7 +35253,8 @@
             {
               "evoId": 583,
               "formId": 2147,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -34967,7 +35309,8 @@
             {
               "evoId": 584,
               "formId": 2150,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -35072,7 +35415,8 @@
             {
               "evoId": 586,
               "formId": 589,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -35083,7 +35427,8 @@
             {
               "evoId": 586,
               "formId": 590,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -35094,7 +35439,8 @@
             {
               "evoId": 586,
               "formId": 591,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -35105,7 +35451,8 @@
             {
               "evoId": 586,
               "formId": 592,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -35259,7 +35606,8 @@
               "evoId": 589,
               "formId": 2159,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -35368,7 +35716,8 @@
             {
               "evoId": 591,
               "formId": 2165,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -35474,7 +35823,8 @@
             {
               "evoId": 593,
               "formId": 2171,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -35485,7 +35835,8 @@
             {
               "evoId": 593,
               "formId": 2331,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -35633,7 +35984,8 @@
             {
               "evoId": 596,
               "formId": 2180,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -35740,7 +36092,8 @@
             {
               "evoId": 598,
               "formId": 2186,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -35847,7 +36200,8 @@
             {
               "evoId": 600,
               "formId": 2192,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -35903,7 +36257,8 @@
             {
               "evoId": 601,
               "formId": 2195,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -36004,7 +36359,8 @@
             {
               "evoId": 603,
               "formId": 2201,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -36065,7 +36421,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -36176,7 +36533,8 @@
             {
               "evoId": 606,
               "formId": 2210,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -36277,7 +36635,8 @@
             {
               "evoId": 608,
               "formId": 2216,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -36341,7 +36700,8 @@
                   "itemId": 1107,
                   "itemName": "Gen5 Evolution Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -36457,7 +36817,8 @@
             {
               "evoId": 611,
               "formId": 2225,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -36512,7 +36873,8 @@
             {
               "evoId": 612,
               "formId": 2228,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -36616,7 +36978,8 @@
             {
               "evoId": 614,
               "formId": 2234,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -36628,7 +36991,8 @@
             {
               "evoId": 614,
               "formId": 2820,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -36778,7 +37142,8 @@
               "evoId": 617,
               "formId": 2243,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -36952,7 +37317,8 @@
             {
               "evoId": 620,
               "formId": 2252,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -37099,7 +37465,8 @@
             {
               "evoId": 623,
               "formId": 2261,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -37205,7 +37572,8 @@
             {
               "evoId": 625,
               "formId": 2267,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -37268,7 +37636,8 @@
                   "questType": 21,
                   "target": 15
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -37376,12 +37745,14 @@
             {
               "evoId": 628,
               "formId": 2276,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 628,
               "formId": 2798,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -37514,7 +37885,8 @@
             {
               "evoId": 630,
               "formId": 2282,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -37701,7 +38073,8 @@
             {
               "evoId": 634,
               "formId": 2294,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -37759,7 +38132,8 @@
             {
               "evoId": 635,
               "formId": 2297,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -37869,7 +38243,8 @@
             {
               "evoId": 637,
               "formId": 2303,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -38680,7 +39055,8 @@
             {
               "evoId": 651,
               "formId": 3023,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -38735,7 +39111,8 @@
             {
               "evoId": 652,
               "formId": 3024,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -38842,7 +39219,8 @@
             {
               "evoId": 654,
               "formId": 3026,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -38897,7 +39275,8 @@
             {
               "evoId": 655,
               "formId": 3027,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -39005,7 +39384,8 @@
             {
               "evoId": 657,
               "formId": 3029,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -39060,7 +39440,8 @@
             {
               "evoId": 658,
               "formId": 3030,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -39166,7 +39547,8 @@
             {
               "evoId": 660,
               "formId": 3032,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -39274,7 +39656,8 @@
             {
               "evoId": 662,
               "formId": 3034,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -39334,7 +39717,8 @@
             {
               "evoId": 663,
               "formId": 3035,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -39443,7 +39827,8 @@
             {
               "evoId": 665,
               "formId": 2765,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39454,7 +39839,8 @@
             {
               "evoId": 665,
               "formId": 2766,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39465,7 +39851,8 @@
             {
               "evoId": 665,
               "formId": 2767,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39476,7 +39863,8 @@
             {
               "evoId": 665,
               "formId": 2768,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39487,7 +39875,8 @@
             {
               "evoId": 665,
               "formId": 2769,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39498,7 +39887,8 @@
             {
               "evoId": 665,
               "formId": 2770,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39509,7 +39899,8 @@
             {
               "evoId": 665,
               "formId": 2771,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39520,7 +39911,8 @@
             {
               "evoId": 665,
               "formId": 2772,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39531,7 +39923,8 @@
             {
               "evoId": 665,
               "formId": 2773,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39542,7 +39935,8 @@
             {
               "evoId": 665,
               "formId": 2774,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39553,7 +39947,8 @@
             {
               "evoId": 665,
               "formId": 2775,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39564,7 +39959,8 @@
             {
               "evoId": 665,
               "formId": 2776,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39575,7 +39971,8 @@
             {
               "evoId": 665,
               "formId": 2777,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39586,7 +39983,8 @@
             {
               "evoId": 665,
               "formId": 2778,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39597,7 +39995,8 @@
             {
               "evoId": 665,
               "formId": 2779,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39608,7 +40007,8 @@
             {
               "evoId": 665,
               "formId": 2780,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39619,7 +40019,8 @@
             {
               "evoId": 665,
               "formId": 2781,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39630,7 +40031,8 @@
             {
               "evoId": 665,
               "formId": 2782,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39641,7 +40043,8 @@
             {
               "evoId": 665,
               "formId": 2783,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -39652,7 +40055,8 @@
             {
               "evoId": 665,
               "formId": 2784,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -39703,7 +40107,8 @@
             {
               "evoId": 666,
               "formId": 2594,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39714,7 +40119,8 @@
             {
               "evoId": 666,
               "formId": 2595,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39725,7 +40131,8 @@
             {
               "evoId": 666,
               "formId": 2596,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39736,7 +40143,8 @@
             {
               "evoId": 666,
               "formId": 2597,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39747,7 +40155,8 @@
             {
               "evoId": 666,
               "formId": 2598,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39758,7 +40167,8 @@
             {
               "evoId": 666,
               "formId": 2599,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39769,7 +40179,8 @@
             {
               "evoId": 666,
               "formId": 2600,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39780,7 +40191,8 @@
             {
               "evoId": 666,
               "formId": 2601,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39791,7 +40203,8 @@
             {
               "evoId": 666,
               "formId": 2602,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39802,7 +40215,8 @@
             {
               "evoId": 666,
               "formId": 2603,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39813,7 +40227,8 @@
             {
               "evoId": 666,
               "formId": 2604,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39824,7 +40239,8 @@
             {
               "evoId": 666,
               "formId": 2605,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39835,7 +40251,8 @@
             {
               "evoId": 666,
               "formId": 2606,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39846,7 +40263,8 @@
             {
               "evoId": 666,
               "formId": 2607,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39857,7 +40275,8 @@
             {
               "evoId": 666,
               "formId": 2608,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39868,7 +40287,8 @@
             {
               "evoId": 666,
               "formId": 2609,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39879,7 +40299,8 @@
             {
               "evoId": 666,
               "formId": 2610,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39890,7 +40311,8 @@
             {
               "evoId": 666,
               "formId": 2611,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39901,7 +40323,8 @@
             {
               "evoId": 666,
               "formId": 2612,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -39912,7 +40335,8 @@
             {
               "evoId": 666,
               "formId": 2613,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -40094,13 +40518,15 @@
               "evoId": 668,
               "formId": 2587,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 668,
               "formId": 2588,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -40214,7 +40640,8 @@
             {
               "evoId": 670,
               "formId": 2619,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -40225,7 +40652,8 @@
             {
               "evoId": 670,
               "formId": 2620,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -40236,7 +40664,8 @@
             {
               "evoId": 670,
               "formId": 2621,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -40247,7 +40676,8 @@
             {
               "evoId": 670,
               "formId": 2622,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         },
@@ -40258,7 +40688,8 @@
             {
               "evoId": 670,
               "formId": 2623,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -40320,7 +40751,8 @@
                   "questType": 34,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -40337,7 +40769,8 @@
                   "questType": 34,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -40354,7 +40787,8 @@
                   "questType": 34,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -40371,7 +40805,8 @@
                   "questType": 34,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -40388,7 +40823,8 @@
                   "questType": 34,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -40516,7 +40952,8 @@
             {
               "evoId": 673,
               "formId": 3038,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -40623,7 +41060,8 @@
                   "questType": 4,
                   "target": 32
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -40810,13 +41248,15 @@
               "evoId": 678,
               "formId": 2589,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 678,
               "formId": 2590,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -40937,7 +41377,8 @@
             {
               "evoId": 680,
               "formId": 3043,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -40993,7 +41434,8 @@
             {
               "evoId": 681,
               "formId": 2639,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -41108,7 +41550,8 @@
                   "questType": 39,
                   "target": 1
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -41217,7 +41660,8 @@
                   "questType": 33,
                   "target": 25
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -41324,7 +41768,8 @@
             {
               "evoId": 687,
               "formId": 3049,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -41429,7 +41874,8 @@
             {
               "evoId": 689,
               "formId": 3051,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -41532,7 +41978,8 @@
             {
               "evoId": 691,
               "formId": 3053,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -41636,7 +42083,8 @@
             {
               "evoId": 693,
               "formId": 3055,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -41741,7 +42189,8 @@
                   "itemId": 1101,
                   "itemName": "Sun Stone"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -41851,7 +42300,8 @@
               "evoId": 697,
               "formId": 3059,
               "candyCost": 50,
-              "onlyDaytime": true
+              "onlyDaytime": true,
+              "form": null
             }
           ]
         }
@@ -41963,7 +42413,8 @@
               "evoId": 699,
               "formId": 3061,
               "candyCost": 50,
-              "onlyNighttime": true
+              "onlyNighttime": true,
+              "form": null
             }
           ]
         }
@@ -42245,12 +42696,14 @@
           "evolutions": [
             {
               "evoId": 705,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             },
             {
               "evoId": 705,
               "formId": 2790,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -42315,7 +42768,8 @@
             {
               "evoId": 706,
               "formId": 2791,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -42326,7 +42780,8 @@
             {
               "evoId": 706,
               "formId": 2811,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -42484,7 +42939,8 @@
               "evoId": 709,
               "formId": 3068,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -42590,7 +43046,8 @@
               "evoId": 711,
               "formId": 2645,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         },
@@ -42607,7 +43064,8 @@
               "evoId": 711,
               "formId": 2646,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         },
@@ -42624,7 +43082,8 @@
               "evoId": 711,
               "formId": 2647,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         },
@@ -42641,7 +43100,8 @@
               "evoId": 711,
               "formId": 2648,
               "candyCost": 200,
-              "tradeBonus": true
+              "tradeBonus": true,
+              "form": null
             }
           ]
         }
@@ -42772,12 +43232,14 @@
           "evolutions": [
             {
               "evoId": 713,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 713,
               "formId": 2795,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -42909,7 +43371,8 @@
             {
               "evoId": 715,
               "formId": 3071,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -43126,7 +43589,8 @@
                   "itemId": 650,
                   "itemName": "Beans"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -43142,7 +43606,8 @@
                   "itemId": 650,
                   "itemName": "Beans"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -43362,7 +43827,8 @@
             {
               "evoId": 723,
               "formId": 3077,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -43419,12 +43885,14 @@
           "evolutions": [
             {
               "evoId": 724,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             },
             {
               "evoId": 724,
               "formId": 2785,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -43561,7 +44029,8 @@
             {
               "evoId": 726,
               "formId": 3079,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -43616,7 +44085,8 @@
             {
               "evoId": 727,
               "formId": 3080,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -43725,7 +44195,8 @@
             {
               "evoId": 729,
               "formId": 3082,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -43780,7 +44251,8 @@
             {
               "evoId": 730,
               "formId": 3083,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -43887,7 +44359,8 @@
             {
               "evoId": 732,
               "formId": 3085,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -43945,7 +44418,8 @@
             {
               "evoId": 733,
               "formId": 3086,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -44055,7 +44529,8 @@
               "evoId": 735,
               "formId": 3088,
               "candyCost": 50,
-              "onlyDaytime": true
+              "onlyDaytime": true,
+              "form": null
             }
           ]
         }
@@ -44155,7 +44630,8 @@
             {
               "evoId": 737,
               "formId": 3090,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -44215,7 +44691,8 @@
             {
               "evoId": 738,
               "formId": 3091,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         },
@@ -44227,7 +44704,8 @@
             {
               "evoId": 738,
               "formId": "VIKAVOLT_WINTER_2025",
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -44343,7 +44821,8 @@
             {
               "evoId": 740,
               "formId": 3093,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -44512,7 +44991,8 @@
             {
               "evoId": 743,
               "formId": 3095,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -44614,7 +45094,8 @@
             {
               "evoId": 745,
               "formId": 2686,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -44626,13 +45107,15 @@
               "evoId": 745,
               "formId": 2684,
               "candyCost": 50,
-              "onlyDaytime": true
+              "onlyDaytime": true,
+              "form": null
             },
             {
               "evoId": 745,
               "formId": 2685,
               "candyCost": 50,
-              "onlyNighttime": true
+              "onlyNighttime": true,
+              "form": null
             }
           ]
         }
@@ -44832,7 +45315,8 @@
             {
               "evoId": 748,
               "formId": 3097,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -44932,7 +45416,8 @@
             {
               "evoId": 750,
               "formId": 3099,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -45033,7 +45518,8 @@
             {
               "evoId": 752,
               "formId": 3101,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -45137,7 +45623,8 @@
               "evoId": 754,
               "formId": 3103,
               "candyCost": 50,
-              "onlyDaytime": true
+              "onlyDaytime": true,
+              "form": null
             }
           ]
         }
@@ -45239,7 +45726,8 @@
             {
               "evoId": 756,
               "formId": 3105,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -45341,7 +45829,8 @@
               "evoId": 758,
               "formId": 3107,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -45444,7 +45933,8 @@
             {
               "evoId": 760,
               "formId": 3020,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -45551,7 +46041,8 @@
             {
               "evoId": 762,
               "formId": 3110,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -45607,7 +46098,8 @@
             {
               "evoId": 763,
               "formId": 3111,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -45844,7 +46336,8 @@
             {
               "evoId": 768,
               "formId": 3116,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -45951,7 +46444,8 @@
             {
               "evoId": 770,
               "formId": 3118,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -46092,7 +46586,8 @@
             {
               "evoId": 773,
               "formId": 2689,
-              "candyCost": 200
+              "candyCost": 200,
+              "form": null
             }
           ]
         }
@@ -46755,7 +47250,8 @@
             {
               "evoId": 783,
               "formId": 3128,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -46812,7 +47308,8 @@
             {
               "evoId": 784,
               "formId": 3129,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -47098,7 +47595,8 @@
             {
               "evoId": 790,
               "formId": 3135,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -47150,13 +47648,15 @@
               "evoId": 791,
               "formId": 3136,
               "candyCost": 100,
-              "onlyDaytime": true
+              "onlyDaytime": true,
+              "form": null
             },
             {
               "evoId": 792,
               "formId": 3137,
               "candyCost": 100,
-              "onlyNighttime": true
+              "onlyNighttime": true,
+              "form": null
             }
           ]
         }
@@ -47784,7 +48284,8 @@
                   "questType": 4,
                   "target": 20
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -48011,7 +48512,8 @@
             {
               "evoId": 809,
               "formId": 2324,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -48112,7 +48614,8 @@
             {
               "evoId": 811,
               "formId": 3152,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -48166,7 +48669,8 @@
             {
               "evoId": 812,
               "formId": 2326,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -48266,7 +48770,8 @@
             {
               "evoId": 814,
               "formId": 3154,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -48320,7 +48825,8 @@
             {
               "evoId": 815,
               "formId": 3016,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -48420,7 +48926,8 @@
             {
               "evoId": 817,
               "formId": 3156,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -48474,7 +48981,8 @@
             {
               "evoId": 818,
               "formId": 3157,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -48576,7 +49084,8 @@
             {
               "evoId": 820,
               "formId": 3159,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -48677,7 +49186,8 @@
             {
               "evoId": 822,
               "formId": 3161,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -48732,7 +49242,8 @@
             {
               "evoId": 823,
               "formId": 3162,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -48834,7 +49345,8 @@
             {
               "evoId": 825,
               "formId": 3164,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -48889,7 +49401,8 @@
             {
               "evoId": 826,
               "formId": 3165,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -48990,7 +49503,8 @@
             {
               "evoId": 828,
               "formId": 3167,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49088,7 +49602,8 @@
             {
               "evoId": 830,
               "formId": 3169,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49186,7 +49701,8 @@
             {
               "evoId": 832,
               "formId": 2862,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49285,7 +49801,8 @@
             {
               "evoId": 834,
               "formId": 3171,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49385,7 +49902,8 @@
             {
               "evoId": 836,
               "formId": 3173,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49482,7 +50000,8 @@
             {
               "evoId": 838,
               "formId": 3175,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -49538,7 +50057,8 @@
             {
               "evoId": 839,
               "formId": 3176,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -49644,7 +50164,8 @@
                   "itemId": 1152,
                   "itemName": "Other Evolution Stone Maple B"
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 842,
@@ -49655,7 +50176,8 @@
                   "itemId": 1151,
                   "itemName": "Other Evolution Stone Maple A"
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 1011,
@@ -49666,7 +50188,8 @@
                   "itemId": 1155,
                   "itemName": "Other Evolution Stone Maple C"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -49843,7 +50366,8 @@
             {
               "evoId": 844,
               "formId": 3181,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -49987,7 +50511,8 @@
             {
               "evoId": 847,
               "formId": 3184,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -50085,12 +50610,14 @@
             {
               "evoId": 849,
               "formId": 2463,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             },
             {
               "evoId": 849,
               "formId": 2464,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -50203,7 +50730,8 @@
             {
               "evoId": 851,
               "formId": 3187,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -50303,7 +50831,8 @@
             {
               "evoId": 853,
               "formId": 3189,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -50403,7 +50932,8 @@
             {
               "evoId": 855,
               "formId": 2480,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -50414,7 +50944,8 @@
             {
               "evoId": 855,
               "formId": 2481,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
@@ -50518,7 +51049,8 @@
             {
               "evoId": 857,
               "formId": 3191,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -50573,7 +51105,8 @@
             {
               "evoId": 858,
               "formId": 3192,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -50678,7 +51211,8 @@
             {
               "evoId": 860,
               "formId": 3194,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -50734,7 +51268,8 @@
             {
               "evoId": 861,
               "formId": 3195,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -51124,7 +51659,8 @@
             {
               "evoId": 869,
               "formId": 3197,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -51320,7 +51856,8 @@
                   "questType": 34,
                   "target": 10
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -51630,7 +52167,8 @@
             {
               "evoId": 879,
               "formId": 3203,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -51944,7 +52482,8 @@
             {
               "evoId": 886,
               "formId": 3210,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -52000,7 +52539,8 @@
             {
               "evoId": 887,
               "formId": 3211,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -52297,7 +52837,8 @@
                   "questType": 21,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 892,
@@ -52308,7 +52849,8 @@
                   "questType": 21,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -53083,7 +53625,8 @@
             {
               "evoId": 907,
               "formId": 3223,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -53138,7 +53681,8 @@
             {
               "evoId": 908,
               "formId": 3224,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -53244,7 +53788,8 @@
             {
               "evoId": 910,
               "formId": 3226,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -53299,7 +53844,8 @@
             {
               "evoId": 911,
               "formId": 3227,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -53406,7 +53952,8 @@
             {
               "evoId": 913,
               "formId": 3229,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -53461,7 +54008,8 @@
             {
               "evoId": 914,
               "formId": 3230,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -53568,13 +54116,15 @@
               "evoId": 916,
               "formId": 2981,
               "genderRequirement": "Male",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 916,
               "formId": 2982,
               "genderRequirement": "Female",
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -53690,7 +54240,8 @@
             {
               "evoId": 918,
               "formId": 3233,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -53790,7 +54341,8 @@
             {
               "evoId": 920,
               "formId": 3235,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -53893,7 +54445,8 @@
             {
               "evoId": 922,
               "formId": 3237,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -53957,7 +54510,8 @@
                   "questType": 50,
                   "target": 25
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -54072,12 +54626,14 @@
             {
               "evoId": 925,
               "formId": 2984,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             },
             {
               "evoId": 925,
               "formId": 2983,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -54187,7 +54743,8 @@
             {
               "evoId": 927,
               "formId": 3241,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -54289,7 +54846,8 @@
             {
               "evoId": 929,
               "formId": 3243,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -54347,7 +54905,8 @@
             {
               "evoId": 930,
               "formId": 3244,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -54505,7 +55064,8 @@
             {
               "evoId": 933,
               "formId": 3246,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -54559,7 +55119,8 @@
             {
               "evoId": 934,
               "formId": 3247,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -54664,7 +55225,8 @@
                   "questType": 71,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             },
             {
               "evoId": 937,
@@ -54675,7 +55237,8 @@
                   "questType": 71,
                   "target": 30
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -54838,7 +55401,8 @@
             {
               "evoId": 939,
               "formId": 3252,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -54938,7 +55502,8 @@
             {
               "evoId": 941,
               "formId": 3254,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55036,7 +55601,8 @@
             {
               "evoId": 943,
               "formId": 3256,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55134,7 +55700,8 @@
             {
               "evoId": 945,
               "formId": 3258,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55235,7 +55802,8 @@
             {
               "evoId": 947,
               "formId": 3260,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55334,7 +55902,8 @@
             {
               "evoId": 949,
               "formId": 3262,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55477,7 +56046,8 @@
             {
               "evoId": 952,
               "formId": 3265,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55576,7 +56146,8 @@
             {
               "evoId": 954,
               "formId": 3267,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55675,7 +56246,8 @@
             {
               "evoId": 956,
               "formId": 3269,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -55773,7 +56345,8 @@
             {
               "evoId": 958,
               "formId": 3271,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -55828,7 +56401,8 @@
             {
               "evoId": 959,
               "formId": 3272,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -55931,7 +56505,8 @@
             {
               "evoId": 961,
               "formId": 3274,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -56075,7 +56650,8 @@
             {
               "evoId": 964,
               "formId": 2989,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -56186,7 +56762,8 @@
             {
               "evoId": 966,
               "formId": 3278,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -56372,7 +56949,8 @@
             {
               "evoId": 970,
               "formId": 3282,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -56470,7 +57048,8 @@
             {
               "evoId": 972,
               "formId": 3284,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -56613,7 +57192,8 @@
             {
               "evoId": 975,
               "formId": 3287,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         }
@@ -57567,7 +58147,8 @@
             {
               "evoId": 997,
               "formId": 3307,
-              "candyCost": 25
+              "candyCost": 25,
+              "form": null
             }
           ]
         }
@@ -57624,7 +58205,8 @@
             {
               "evoId": 998,
               "formId": 3308,
-              "candyCost": 100
+              "candyCost": 100,
+              "form": null
             }
           ]
         }
@@ -57729,7 +58311,8 @@
                   "itemId": 1150,
                   "itemName": "Other Evolution Stone A"
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         },
@@ -58250,7 +58833,8 @@
                   "questType": 4,
                   "target": 7
                 }
-              ]
+              ],
+              "form": null
             }
           ]
         }
@@ -58315,7 +58899,8 @@
             {
               "evoId": 1013,
               "formId": 2873,
-              "candyCost": 50
+              "candyCost": 50,
+              "form": null
             }
           ]
         },
@@ -58326,7 +58911,8 @@
             {
               "evoId": 1013,
               "formId": 2874,
-              "candyCost": 400
+              "candyCost": 400,
+              "form": null
             }
           ]
         }
