@@ -32,6 +32,29 @@ exec('git rev-parse HEAD', (err, stdout) => {
   }
 })
 
+function coerceNumericFormId(value) {
+  if (value == null) return null
+  if (typeof value === 'number' && Number.isInteger(value)) return value
+  if (typeof value === 'string' && /^[0-9]+$/.test(value)) return Number(value)
+  return null
+}
+
+function sanitiseEvolutionForms(data) {
+  if (!data || !data.pokemon) return
+
+  for (const pokemon of Object.values(data.pokemon)) {
+    if (!pokemon.forms) continue
+
+    for (const form of Object.values(pokemon.forms)) {
+      if (!Array.isArray(form.evolutions)) continue
+
+      for (const evolution of form.evolutions) {
+        evolution.form = coerceNumericFormId(evolution.form)
+      }
+    }
+  }
+}
+
 async function masterfile() {
   const templates = await fs.promises.readdir('./templates')
   const pmsfQuestTypes = await fetch(
@@ -69,6 +92,8 @@ async function masterfile() {
           // translationApkUrl:
           //   'https://raw.githubusercontent.com/turtiesocks/pogo_assets/master/Texts/Latest%20APK/JSON/i18n_english.json',
         })
+
+        sanitiseEvolutionForms(newData)
 
         if (
           templateName === 'master-latest-poracle.json' ||
